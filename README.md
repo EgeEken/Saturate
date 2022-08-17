@@ -1,6 +1,6 @@
 # Saturate
 
-Input an image file, and a saturation coefficient between -1 and 1 where 0 would be the current state, -1 would be a black and white version, and 1 would be the maximum saturation, and the program will give you a saturated/desaturated version of the image within seconds.
+Input an image file, and a saturation coefficient between -1 and 1 where 0 would be the current state, -1 would be a black and white version, and 1 would be the maximum saturation, and the program will give you a saturated/desaturated version of the image within less than a second.
 
 # Results:
 
